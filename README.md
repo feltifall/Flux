@@ -7,7 +7,6 @@ Bromite is a [Chromium](https://www.chromium.org/Home) fork with support for ad 
 
 Bromite is only available for Android Marshmallow (v6.0, API level 23) and above.
 
-<img src="https://fdroid.bromite.org/fdroid/bromite_bromite_gh_downloads.svg" alt="Downloads on Github" title="Downloads on Github" />
 
 Flux is an innovative browser that seamlessly integrates traditional web browsing with cutting-edge blockchain and Web3 capabilities. It allows users to not only browse the internet securely but also interact with decentralized applications (dApps), manage cryptocurrencies, execute smart contracts, and leverage the benefits of decentralized networks.
 
