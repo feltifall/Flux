@@ -10,7 +10,7 @@ Bromite is only available for Android Marshmallow (v6.0, API level 23) and above
 
 Flux is an innovative browser that seamlessly integrates traditional web browsing with cutting-edge blockchain and Web3 capabilities. It allows users to not only browse the internet securely but also interact with decentralized applications (dApps), manage cryptocurrencies, execute smart contracts, and leverage the benefits of decentralized networks.
 
-🚀 Official Release Date: June 15, 2025 🚀
+🚀 An official release is desirable : June 15, 2025 🚀
 
 🌍 Why Choose Flux?
 Traditional browsers rely on centralized servers, making users vulnerable to censorship, data breaches, and tracking. Flux changes the game by providing a decentralized internet experience where privacy and security are the top priorities.
