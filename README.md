@@ -1,4 +1,4 @@
-# 🚀 Flux – The Next-Gen Blockchain Browser
+# 🚀 Flux – The Next-Gen Browser
 <a href="[https://www.bromite.org](https://t.me/fluxBRinfo)">
   <img title="Bromite - take back your browser!" src="https://ltdfoto.ru/images/2025/03/24/rounded-in-photoretrica-ULUCSENO-SR-2-min-1.png" width="96" alt="Bromite" />
 </a>
